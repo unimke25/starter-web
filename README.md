@@ -7,5 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 #introduction
-
+a lot of lectures are already submitted 
 #git github training 
+this is git project which we are using as sample project, 
+this is the famous and one of the best training  
