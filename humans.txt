@@ -23,4 +23,5 @@ adding imporant notes on git stash
     HTML5, CSS3
     jQuery, Modernizr, Ajax, angular
     google cloud
+	AWS developer
 
