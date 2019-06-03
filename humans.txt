@@ -4,10 +4,11 @@
 # TEAM
 
     <name> Kyrian T <twitter>
+	amama140@gmail.com
 
 # THANKS
 
-    <name>
+    Kyprian A
 
 # TECHNOLOGY COLOPHON
 
