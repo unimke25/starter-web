@@ -5,6 +5,7 @@
 
     <name> Kyrian T <twitter>
 	amama140@gmail.com
+	
 
 # THANKS
 
@@ -15,3 +16,4 @@
     HTML5, CSS3
     jQuery, Modernizr, Ajax, angular
     google cloud
+
