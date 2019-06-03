@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 adding fit rebase lectures and git advance part
+we have done so much of work together
 
 ##introduction
 a lot of lectures are already submitted 
