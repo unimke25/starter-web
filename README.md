@@ -8,6 +8,9 @@ Sample website with plenty of files for demos
 
 ##introduction
 a lot of lectures are already submitted 
+
+##Contribution
+For the repor and raise pull request for review
 ##git github training 
 this is git project which we are using as sample project, 
 this is the famous and one of the best training 
