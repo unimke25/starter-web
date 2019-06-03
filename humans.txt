@@ -5,7 +5,7 @@ Hi , i am the modifying the file before rebase.
 
     <name> Kyrian T <twitter>
 	amama140@gmail.com
-	
+	Devops juniro m3
 
 # THANKS
 
