@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
+adding fit rebase lectures and git advance part
 
 ##introduction
 a lot of lectures are already submitted 
