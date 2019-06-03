@@ -18,3 +18,4 @@ this is git project which we are using as sample project,
 this is the famous and one of the best training 
 ## Git comparisons
 adding git comparisons lectures 
+adding new lextures of stash 
