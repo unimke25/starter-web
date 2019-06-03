@@ -1,6 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+<<<<<<< HEAD
 Hi , i am the modifying the file before rebase.
+=======
+Hi, i am going to insert conflicts in my feature branch
+
+>>>>>>> mybranch
 # TEAM
 
     <name> Kyrian T <twitter>
